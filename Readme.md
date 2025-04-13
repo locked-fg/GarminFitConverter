@@ -1,0 +1,1 @@
+Simple script to convert Garmin .fit files into GPX files.
